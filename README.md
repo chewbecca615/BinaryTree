@@ -16,5 +16,8 @@ three types of transversal:
 * post order traversing
   * left subtree → right subtree → root
 
+has two methods:
+* replaceNode
+* updatetree
 
 by: Rebecca Chang; researched and used resources about binary trees
