@@ -21,4 +21,12 @@ public class BinaryTree
         postorder(r.right);
         System.out.print(r.data + " ");
     }
+//    private node addRecursive(node current, int value) {
+//        if (current == null) { return new node(value); }
+//        if (value < current.data) { current.left = addRecursive(current.left, value); }
+//        else if (value > current.data) { current.right = addRecursive(current.right, value); }
+//        else { return current; }
+//        return current;
+//    }
+
 }
